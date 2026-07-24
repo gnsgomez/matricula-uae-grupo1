@@ -21,11 +21,11 @@ El sistema está pensado para facilitar la experiencia del estudiante, ofreciend
 - **Lenguajes**: HTML, CSS, JavaScript (futuro desarrollo)
 
 ## Integrantes del Grupo
-- **Nombre Apellido 1** - Responsable del Repositorio
-- **Nombre Apellido 2** - Responsable de Documentación
-- **Nombre Apellido 3** - Responsable del Prototipo
-- **Nombre Apellido 4** - Colaborador (si aplica)
-- **Nombre Apellido 5** - Colaborador (si aplica)
+- **Gomez Arias Genesis Keyla** - Responsable del Repositorio
+- **González Suárez Chrystel Karolina** - Responsable de Documentación
+- **Ibarra Herrera Yomaira Evelin** - Responsable del Prototipo
+- **Soledispa Chiquito Miriam Elizabeth** - Colaborador (si aplica)
+- **Chávez Dueñas Ramon Alfonso** - Colaborador (si aplica)
 
 ## Nota sobre IA
 Este prototipo fue reestructurado utilizando Claude Design como herramienta de apoyo para la generación inicial de interfaces, con ajustes realizados por el equipo para adaptarlo a los requerimientos específicos del Sistema de Matrícula UAE.
